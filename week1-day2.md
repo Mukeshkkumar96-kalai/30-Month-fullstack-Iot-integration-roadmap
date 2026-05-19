@@ -23,5 +23,5 @@
 - If the server approves the client's request, the server sends the client a "200 OK" message, which means "Of course you can look at that website! Here it is", and then starts sending the website's files to the browser as a series of small chunks called packets.
 - The browser assembles the small chunks into a complete web page and displays it to you.
 
-  [How the internet works (page)] (https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
-  [How the internet works (video)] (https://www.youtube.com/watch?v=hlkAuFXHFWM)
+  -[How the internet works (page)] (https://developer.mozilla.org/en-US/docs/Learn_web_development/Howto/Web_mechanics/How_does_the_Internet_work)
+  -[How the internet works (video)] (https://www.youtube.com/watch?v=hlkAuFXHFWM)
