@@ -19,7 +19,7 @@ Describe your long-term goal.
 - Buffer weeks
 - Revision tracking
 
-## Technologies
+## Technologies covered to learn 
 - HTML/CSS/JavaScript
 - React
 - Node.js
