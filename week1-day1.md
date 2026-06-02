@@ -3,6 +3,8 @@
    - Capacitors ( pass the electron )
    - Insulators ( stop the electron )
 
-## Ohm's Law 
-   At constant temperature the current through the circuit is dirctly propotional to the votage.
-- V = IR
+## Types of Electrictity 
+  - AC (Alternative current)
+     - Ex: home current connection
+  - DC (Direct Current)
+     - Ex: Battery 
