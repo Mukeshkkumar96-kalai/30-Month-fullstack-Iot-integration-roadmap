@@ -19,4 +19,4 @@
 - For the negative to connect in the red line or the "-" symbol for the navigation.
 
 ## Screenshot
-[LED circuit] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/Screenshot%202026-05-21%20175729.png)
+[LED circuit] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/LED-circuit-screenshots/Working%20LED%20circuit.png)
