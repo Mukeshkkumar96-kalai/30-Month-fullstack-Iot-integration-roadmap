@@ -8,13 +8,13 @@
 - Symptom  : All LEDs off
 - Cause    : Broken connection at LED leg
 - Lesson   : Series circuits have single point of failure
-- [image] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/LED%20removed.png)
+- [image] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/LED-circuit-screenshots/LED-removed.png)
 
 ## FAULT #2
 - Symptom  : LED glows dangerously bright
 - Cause    : Missing current-limiting resistor
 - Lesson   : Always protect LEDs with resistors
-- [image] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/Resistor%20removed.png)
+- [image] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/LED-circuit-screenshots/Resistor-removed.png)
 
 ## Calculation
 - LED forward voltage    : ~2V
@@ -34,4 +34,4 @@
 - Symptom  : All LEDs off
 - Cause    : Broken wire, open circuit
 - Lesson   : No closed loop = no current flow
-- [image] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/Wire%20removed.png)
+- [image] (https://github.com/Mukeshkkumar96-kalai/Electronic-practices/blob/main/LED-circuit-screenshots/Wire-removed.png)
