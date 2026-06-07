@@ -251,14 +251,6 @@ led.html
 
 ---
 
-## Commit Message Used Today
-
-```
-feat: Week1-Day6 - series LED circuit HTML documentation page
-```
-
----
-
 ## Connection To IoT Goal
 
 > This webpage is the **documentation layer** of a future IoT pipeline.
@@ -269,6 +261,3 @@ feat: Week1-Day6 - series LED circuit HTML documentation page
 > real agricultural data later.
 
 ---
-
-*IoT & Full Stack Journey — Mukesh | Day 6 / 730*
-*Repo: github.com/Mukeshkkumar96-kalai/Electronic-practices*
