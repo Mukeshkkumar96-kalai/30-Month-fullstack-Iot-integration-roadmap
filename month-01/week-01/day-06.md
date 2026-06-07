@@ -1,10 +1,9 @@
 # Week 1 — Day 6 | Project Saturday
-**Date:** 2026-05-22
-**Day:** 6 / 730
 **Focus:** HTML & CSS — LED Circuit Documentation Page
-
 ---
-
+## webpage link
+[LED circuit webpage] (https://github.com/Mukeshkkumar96-kalai/Fullstack-practice/tree/main/LED%20circuit%20website)
+---
 ## What I Built Today
 
 A structured webpage that documents my Week 1 series LED circuit.
