@@ -1,4 +1,4 @@
-# Day 01 — HTML Structure & Semantics
+# Day 09 — HTML Structure & Semantics
 ---
 
 ## 🎯 Objective
