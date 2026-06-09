@@ -83,8 +83,6 @@ document.querySelector('[data-sensor-id="ESP32-ZA-01"]').getAttribute('value')
 document.querySelector('.sensor-box .value-text')
 ```
 
-**Senior rule:** Semantic attributes are your DOM API. Treat them like an API contract from Day 1.
-
 ---
 
 ## 🛠️ Implementation
